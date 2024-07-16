@@ -1,0 +1,44 @@
+{
+  "id": "4623307",
+  "name": "animate_photo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "876776",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "7366637",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "2578223",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "16728172",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "18371191",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    }
+  ]
+}
